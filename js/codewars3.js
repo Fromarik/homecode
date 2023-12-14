@@ -206,3 +206,33 @@ console.log(stryngForUpperCase,stryngpperCase)
 console.log(stryngForUpperCase)
 
 console.log(stryngForUpperCase)
+console.log("______________________")
+
+// console.log(1)
+
+// setTimeout(() => {
+//   console.log(2)
+// }, 2000);
+
+// Promise.resolve(3).then(console.log)
+
+// setTimeout(() => {
+//   console.log(5)
+// },1000);
+
+// console.log(4)
+
+console.log(typeof null)
+a = 123
+console.log(a,b,c)
+
+var a = 123;
+var b = {};
+var c = [];
+var d = function() {
+  console.log(10)
+}
+
+
+
+console.log(typeof a,typeof b, typeof c,typeof d)
