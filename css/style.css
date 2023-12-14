@@ -1,0 +1,37 @@
+*{
+	
+}
+.form-box {
+border: 5px solid blue;
+padding: 5%;
+text-align: center;
+font-size: 24px;
+height: auto;
+}
+.form-box input {
+	width: 100%;
+	margin-bottom: 25px;
+	padding: 10px;
+}
+.form-box button {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	font-size: 24px;
+}
+.section1 {
+	margin-top: 3%;
+}
+.section2 {
+	margin-top: 100px;
+}
+.section-header {
+	font-size: 24px;
+}
+.feature-box {
+	margin-top: 25px;
+}
+.feature-box img {
+	height: 100px
+}
+
