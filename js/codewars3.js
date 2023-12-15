@@ -222,16 +222,16 @@ console.log("______________________")
 
 // console.log(4)
 
-console.log(typeof null)
-a = 123
-console.log(a,b,c)
+// console.log(typeof null)
+// a = 123
+// console.log(a,b,c)
 
-var a = 123;
-var b = {};
-var c = [];
-var d = function() {
-  console.log(10)
-}
+// var a = 123;
+// var b = {};
+// var c = [];
+// var d = function() {
+//   console.log(10)
+// }
 
 
 
